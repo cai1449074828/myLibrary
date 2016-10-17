@@ -46,4 +46,6 @@ public abstract class LazyActivity extends AppCompatActivity
     public abstract void initViews(Bundle savedInstanceState);
 
     public abstract void initToolBar();
+    public abstract void initToolB();
+    public abstract void initToola();
 }
