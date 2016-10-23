@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/SlideMenuZiDingYi/SlideMenuZiDingYi.iml" filepath="$PROJECT_DIR$/SlideMenuZiDingYi/SlideMenuZiDingYi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/myLibrary.iml" filepath="$PROJECT_DIR$/myLibrary.iml" />
+>>>>>>> origin/master
       <module fileurl="file://$PROJECT_DIR$/myLibrary.iml" filepath="$PROJECT_DIR$/myLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
     </modules>
