@@ -9,11 +9,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-<<<<<<< HEAD
             <option value="$PROJECT_DIR$/SlideMenuZiDingYi" />
+            <option value="$PROJECT_DIR$/SlideMenuZiDingYi2" />
             <option value="$PROJECT_DIR$/app" />
-=======
->>>>>>> origin/master
             <option value="$PROJECT_DIR$/mylibrary" />
           </set>
         </option>

@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-include ':app', ':mylibrary', ':SlideMenuZiDingYi'
-=======
+
+include ':app', ':mylibrary', ':SlideMenuZiDingYi', ':SlideMenuZiDingYi2'
 include ':mylibrary'
->>>>>>> origin/master
