@@ -1,2 +1,1 @@
-include ':app', ':mylibrary', ':SlideMenuZiDingYi', ':SlideMenuZiDingYi2'
 include ':mylibrary'
